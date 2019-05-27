@@ -1,2 +1,2 @@
 # algorithm
-Algorithm
+My competitive program folder
