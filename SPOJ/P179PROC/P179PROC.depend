@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1519746368 source:c:\users\chudu\desktop\p179proc\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	<fstream>
+	<cassert>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<set>
+	<stack>
+	<map>
+	<string>
+	<queue>
+	<bitset>
+

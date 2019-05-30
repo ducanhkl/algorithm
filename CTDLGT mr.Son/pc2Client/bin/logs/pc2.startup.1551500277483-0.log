@@ -1,0 +1,30 @@
+190302 111757.582|CONFIG|main|setFileHandlers|Now logging to E:\hoc tap\algorithm\CTDLGT mr.Son\pc2Client\bin\logs directory.
+190302 111757.584|INFO|main|info|
+190302 111757.586|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_201 build 5102 Windows 10 10.0 (amd64) 
+190302 111757.587|INFO|main|startLog|Working directory is E:\hoc tap\algorithm\CTDLGT mr.Son\pc2Client\bin
+190302 111757.607|INFO|main|startLog|Process id is 1048@DESKTOP-1DUII36
+190302 111757.608|INFO|main|start|Starting ConnectionManager...
+190302 111757.968|INFO|main|start|Started ConnectionManager
+190302 111757.971|INFO|main|setClientServerAndPort|INIFile File location: file:/E:/hoc%20tap/algorithm/CTDLGT%20mr.Son/pc2Client/bin/pc2v9.ini
+190302 111757.972|INFO|main|setClientServerAndPort|setClientServerAndPort 203.162.88.119 parsed as 203.162.88.119 port 50002
+190302 111757.972|INFO|main|info|Contacting server at 203.162.88.119:50002
+190302 111757.973|INFO|main|connectToMyServer|Connecting to 203.162.88.119:50002
+190302 111758.161|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=/203.162.88.119,port=50002,localport=61137]-4536051380953075349)
+190302 111758.801|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted Made a secret key for Socket[addr=/203.162.88.119,port=50002,localport=61137]-4536051380953075349 key is com.sun.crypto.provider.DESKey@182eb
+190302 111758.802|INFO|Thread-1|getPublicKeyPacket|Generating Unencrypted Public Key Packet
+190302 111758.804|INFO|Thread-1|getPublicKeyPacket|checking key:= SunJCE Diffie-Hellman Public Key:
+y:
+    1a1dfb21 e2f5d718 ccaee1eb 38fd5da3 63dfc7f2 d0c4f0fa 265b0720 c7b4ddfd
+    bfb9575c 1000f4be 64791952 1ad56678 410fab7a 53296bb0 fb25fb38 e978f6cc
+    e12cf33d 66e104ab 03ceda20 d3642c9a 73a71d58 25276677 2983edd2 6ceed610
+    76185ca4 2da7990f 55a6a905 c6e5ba06 6b1edb36 224b4504 8fa24ee6 d87bcb17
+p:
+    f488fd58 4e49dbcd 20b49de4 9107366b 336c380d 451d0f7c 88b31c7c 5b2d8ef6
+    f3c923c0 43f0a55b 188d8ebb 558cb85d 38d334fd 7c175743 a31d186c de33212c
+    b52aff3c e1b12940 18118d7c 84a70a72 d686c403 19c80729 7aca950c d9969fab
+    d00a509b 0246d308 3d66a45d 419f9c7c bd894b22 1926baab a25ec355 e92f78c7
+g:
+    02
+l:
+    512
+190302 111758.805|INFO|Thread-1|getPublicKeyPacket|packet:= edu.csus.ecs.pc2.core.transport.TransportWrapper@288c55d6

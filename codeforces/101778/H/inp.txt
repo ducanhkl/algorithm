@@ -1,0 +1,11 @@
+1
+10 7
+abcdefdcba
+5 x
+6 x
+4 d
+2 d
+3 y
+8 y
+9 d
+

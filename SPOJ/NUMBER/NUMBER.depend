@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517139715 source:e:\hoc tap\spoj\number\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<cmath>
+	<bits/stdc++.h>
+

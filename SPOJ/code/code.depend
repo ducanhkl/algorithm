@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1506343659 source:d:\hoc tap\spoj\code\main.cpp
+	<bits/stdc++.h>
+
+1513391253 source:e:\hoc tap\spoj\code\main.cpp
+	<iostream>
+	<stdio.h>
+

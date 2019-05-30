@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535543893 source:e:\hoc tap\spoj\paliny\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<iostream>
+	<algorithm>
+

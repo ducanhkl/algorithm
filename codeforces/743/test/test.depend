@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534766646 source:e:\hoc tap\codeforces\743\test\main.cpp
+	<cstdio>
+	<cstring>
+	<bits/stdc++.h>
+

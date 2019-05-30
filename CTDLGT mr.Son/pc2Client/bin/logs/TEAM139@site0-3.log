@@ -1,0 +1,24 @@
+190323 000129.355|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to E:\coding\algorithm\CTDLGT mr.Son\pc2Client\bin\logs directory.
+190323 000129.355|INFO|AWT-EventQueue-0|info|
+190323 000129.356|INFO|AWT-EventQueue-0|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_201 build 5102 Windows 10 10.0 (amd64) 
+190323 000129.356|INFO|AWT-EventQueue-0|info|Login: 139 (aka team139)
+190323 000129.356|INFO|AWT-EventQueue-0|startLog|Working directory is E:\coding\algorithm\CTDLGT mr.Son\pc2Client\bin
+190323 000129.357|INFO|AWT-EventQueue-0|startLog|Process id is 13048@DESKTOP-1DUII36
+190323 000129.357|INFO|AWT-EventQueue-0|info|Contacting server at 203.162.88.119:50002 as TEAM139 @ site 0
+190323 000129.357|INFO|AWT-EventQueue-0|info|sendLoginRequest start - sending from TEAM139 @ site 0
+190323 000129.357|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[LOGIN_REQUEST] #3 TEAM139 @ site 0 -> SERVER0 @ site 0
+190323 000129.358|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[LOGIN_REQUEST] #3 TEAM139 @ site 0 -> SERVER0 @ site 0
+190323 000129.358|INFO|AWT-EventQueue-0|info|sendLoginRequest end - packet sent.
+190323 000129.358|INFO|Thread-8|run|send(Serializable)
+190323 000129.556|INFO|Thread-1|receive|public void receive(SealedObject TransportPacket, ConnectionHandlerID connectionHandlerID)
+190323 000129.558|INFO|Thread-9|info| receiveObject(S) start got Packet[LOGIN_FAILED] #12065 SERVER0 @ site 1 -> TEAM139 @ site 0
+190323 000129.558|INFO|Thread-9|dumpPacket|Packet LOGIN_FAILED (Seq #12065, o#12065 ) recieveObject
+190323 000129.558|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (99-HN-KhoaCNTT-ACM1 @ 10.99.3.97) (Contest Id: Default--3370230833862003074)
+190323 000129.559|INFO|Thread-9|dumpPacket|    To: TEAM139 @ site 0
+190323 000129.559|INFO|Thread-9|dumpPacket|   key: MESSAGE_STRING is: java.lang.String Invalid password
+190323 000129.559|INFO|Thread-9|info|handlePacket start Packet[LOGIN_FAILED] #12065 SERVER0 @ site 1 -> TEAM139 @ site 0
+190323 000129.559|INFO|Thread-9|dumpPacket|Packet LOGIN_FAILED (Seq #12065, o#12065 ) handlePacket
+190323 000129.559|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (99-HN-KhoaCNTT-ACM1 @ 10.99.3.97) (Contest Id: Default--3370230833862003074)
+190323 000129.559|INFO|Thread-9|dumpPacket|    To: TEAM139 @ site 0
+190323 000129.560|INFO|Thread-9|dumpPacket|   key: MESSAGE_STRING is: java.lang.String Invalid password
+190323 000130.253|INFO|Thread-9|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #12065 SERVER0 @ site 1 -> TEAM139 @ site 0

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515941528 source:e:\hoc tap\codeforces\915\b\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

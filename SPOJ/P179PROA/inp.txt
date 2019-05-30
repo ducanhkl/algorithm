@@ -1,0 +1,12 @@
+5
+Pidgey
+12 36
+Ivysaur
+10 63
+Charmander
+35 96
+Pikachu
+12 32
+Squirtle
+15 10
+
