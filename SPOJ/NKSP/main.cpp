@@ -1,8 +1,10 @@
 #include <bits/stdc++.h>
-#define maxn 1008
+
 
 using namespace std;
 
+
+const int maxn = 1e3+100;
 
 string s;
 int a[maxn];
@@ -11,10 +13,10 @@ long long dp[maxn], ans = 0;
 
 int main()
 {
-    freopen("inp.txt", "r", stdin);
+    //freopen("inp.txt", "r", stdin);
     memset(f, 0, sizeof(f));
     memset(dp, 0, sizeof(dp));
-    memset(dd, 0, sizeof(dd));sss
+    memset(dd, 0, sizeof(dd));
     ios_base::sync_with_stdio(false);
     cin >> s;
     int n = s.length();
@@ -25,11 +27,29 @@ int main()
             f[i][i+1] = 1;
     for (int i = 1; i <= n; i++)
         f[i][i] = 1;
-    for (int j = 2;  j < n; j++)
+    for (int i = 1; i <= n; i++)
+    {
+        int len = 0;
+        while (i-len >= 1 && i+len <= n && a[i-len] == a[i+len])
+        {
+            f[i-len][i+len] = 1;
+            len++;
+        }
+    }
+    for (int i = 2; i <= n; i++)
+    {
+        int l = i-1, r = i;
+        while (l >= 1 && r <= n && a[l] == a[r])
+        {
+            f[l][r] = 1;
+            l--, r++;
+        }
+    }
+    /*for (int j = 2;  j < n; j++)
         for (int i = 1; i <= n-j; i++)
             if (a[i] == a[i+j])
                 f[i][i+j] = f[i+1][i+j-1];
-            else f[i][i+j] = 0;
+            else f[i][i+j] = 0;*/
     for (int i = 1; i <= n; i++)
         for (int j = i-1; j >= 1; j--)
             {
