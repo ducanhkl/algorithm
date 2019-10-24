@@ -10,7 +10,7 @@ struct data
 };
 
 const int maxn =  400;
-const long long maxc = 5e18;
+const long long maxc = 1e18;
 const long long mod = 1e9;
 long long d[maxn][maxn], dp[maxn][maxn];
 vector <data> e;
@@ -74,18 +74,12 @@ int main()
             ans %= mod;
         }
     }
+    string t = to_string(ans);
     if (check)
     {
-        if (ans == 0)
-        {
-            cout << "000000000";
-            return 0;
-        }
-        int cnt = ceil(log10((long double)(ans + 1)));
-        cnt = 9-cnt;
-        for (int i = 1;i <= cnt; i++)
-            cout << 0;
+        while(t.size() < 9)
+            t = '0'+t;
     }
-    cout << ans;
+    cout << t;
     return 0;
 }
