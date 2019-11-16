@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/chuducanh/D/algorithm/SPOJ/NKLEAVES/main.cpp
+bits/stdc++.h
+/media/chuducanh/D/algorithm/SPOJ/NKLEAVES/bits/stdc++.h
+
