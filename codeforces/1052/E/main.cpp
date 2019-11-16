@@ -10,7 +10,6 @@ vector <int> ans;
 
 void dfs(int u)
 {
-
     for (int i = e[u].size()-1; i >= 0; i = e[u].size()-1)
     {
         int pos = e[u][i];
