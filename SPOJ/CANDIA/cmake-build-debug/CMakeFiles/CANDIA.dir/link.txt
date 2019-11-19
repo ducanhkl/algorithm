@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CANDIA.dir/objects.a
+C:\MINGW\mingw32\bin\ar.exe cr CMakeFiles\CANDIA.dir/objects.a @CMakeFiles\CANDIA.dir\objects1.rsp
+C:\MINGW\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CANDIA.dir/objects.a -Wl,--no-whole-archive  -o CANDIA.exe -Wl,--out-implib,libCANDIA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CANDIA.dir\linklibs.rsp

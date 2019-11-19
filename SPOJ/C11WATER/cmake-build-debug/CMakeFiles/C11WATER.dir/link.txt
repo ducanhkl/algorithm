@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\C11WATER.dir/objects.a
+C:\MINGW\mingw32\bin\ar.exe cr CMakeFiles\C11WATER.dir/objects.a @CMakeFiles\C11WATER.dir\objects1.rsp
+C:\MINGW\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\C11WATER.dir/objects.a -Wl,--no-whole-archive  -o C11WATER.exe -Wl,--out-implib,libC11WATER.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C11WATER.dir\linklibs.rsp
