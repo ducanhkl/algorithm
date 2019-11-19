@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ToolSet: w64 6.0 (local)@C:\MINGW\mingw32
 Options: 
+=======
+ToolSet: 1.0 (local)Options: 
+>>>>>>> b6b83ad5bc17155acd94b2ea3dec96baacb96f9f
 
 Options:

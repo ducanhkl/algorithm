@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NORMA.dir/main.cpp.o  -o NORMA 

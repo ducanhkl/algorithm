@@ -8,6 +8,7 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
+<<<<<<< HEAD
 				<Option working_dir="E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
@@ -20,10 +21,35 @@
 			<Target title="VOLIS">
 				<Option output="E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug/VOLIS.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+=======
+				<Option working_dir="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VOLIS">
+				<Option output="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/VOLIS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+>>>>>>> b6b83ad5bc17155acd94b2ea3dec96baacb96f9f
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+<<<<<<< HEAD
 					<Add directory="C:/MINGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/MINGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="C:/MINGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -41,10 +67,32 @@
 			<Target title="VOLIS/fast">
 				<Option output="E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug/VOLIS.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+=======
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 VOLIS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VOLIS/fast">
+				<Option output="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/VOLIS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+>>>>>>> b6b83ad5bc17155acd94b2ea3dec96baacb96f9f
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+<<<<<<< HEAD
 					<Add directory="C:/MINGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/MINGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="C:/MINGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -84,6 +132,39 @@
 			<Option target="VOLIS"/>
 		</Unit>
 		<Unit filename="E:/coding/algorithm/SPOJ/VOLIS/CMakeLists.txt">
+=======
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 VOLIS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/chuducanh/D/algorithm/SPOJ/VOLIS/main.cpp">
+			<Option target="VOLIS"/>
+		</Unit>
+		<Unit filename="/media/chuducanh/D/algorithm/SPOJ/VOLIS/CMakeLists.txt">
+>>>>>>> b6b83ad5bc17155acd94b2ea3dec96baacb96f9f
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

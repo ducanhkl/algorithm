@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+<<<<<<< HEAD
   "E:/coding/algorithm/SPOJ/VOLIS/main.cpp" "E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/VOLIS.dir/main.cpp.obj"
+=======
+  "/media/chuducanh/D/algorithm/SPOJ/VOLIS/main.cpp" "/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/VOLIS.dir/main.cpp.o"
+>>>>>>> b6b83ad5bc17155acd94b2ea3dec96baacb96f9f
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/VOLIS.dir
 E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/coding/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/VOLIS.dir
+/media/chuducanh/D/algorithm/SPOJ/VOLIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+>>>>>>> b6b83ad5bc17155acd94b2ea3dec96baacb96f9f
