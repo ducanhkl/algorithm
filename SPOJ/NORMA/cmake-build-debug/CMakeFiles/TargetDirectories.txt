@@ -1,0 +1,3 @@
+/media/chuducanh/D/algorithm/SPOJ/NORMA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/chuducanh/D/algorithm/SPOJ/NORMA/cmake-build-debug/CMakeFiles/NORMA.dir
+/media/chuducanh/D/algorithm/SPOJ/NORMA/cmake-build-debug/CMakeFiles/edit_cache.dir
