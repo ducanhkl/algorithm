@@ -11,7 +11,7 @@ long long a[maxn], last[maxn];
 int main()
 {
     //freopen("inp.txt", "r", stdin);
-    ios_base::sync_with_stdio(0);
+    ios_base::sync_with_stdio(0);   
     cin >> n >> d;
     for (int i = 1; i <= n; i++)
         cin >> a[i];
