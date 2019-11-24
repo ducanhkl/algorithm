@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\VODIVIDE.dir/objects.a
+C:\MINGW\mingw32\bin\ar.exe cr CMakeFiles\VODIVIDE.dir/objects.a @CMakeFiles\VODIVIDE.dir\objects1.rsp
+C:\MINGW\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\VODIVIDE.dir/objects.a -Wl,--no-whole-archive  -o VODIVIDE.exe -Wl,--out-implib,libVODIVIDE.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\VODIVIDE.dir\linklibs.rsp
