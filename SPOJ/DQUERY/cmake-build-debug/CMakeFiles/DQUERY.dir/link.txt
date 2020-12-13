@@ -1,0 +1,3 @@
+"G:\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DQUERY.dir/objects.a
+C:\PROGRA~2\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\DQUERY.dir/objects.a @CMakeFiles\DQUERY.dir\objects1.rsp
+C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\DQUERY.dir/objects.a -Wl,--no-whole-archive  -o DQUERY.exe -Wl,--out-implib,libDQUERY.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DQUERY.dir\linklibs.rsp

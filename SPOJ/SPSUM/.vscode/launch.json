@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SPSUMT",
+            "request": "launch",
+            "mainClass": "SPSUMT",
+            "projectName": "SPSUM_1fbef21"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SPSUM_1fbef21"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SPSUM<SPSUM_1fbef21>",
+            "request": "launch",
+            "mainClass": "SPSUM",
+            "projectName": "SPSUM_1fbef21"
+        }
+    ]
+}

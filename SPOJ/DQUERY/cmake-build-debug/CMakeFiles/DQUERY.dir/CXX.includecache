@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/coding/algorithm/SPOJ/DQUERY/main.cpp
+bits/stdc++.h
+F:/coding/algorithm/SPOJ/DQUERY/bits/stdc++.h
+bits/stdc++.h
+-
+

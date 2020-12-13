@@ -1,0 +1,3 @@
+F:/coding/algorithm/SPOJ/KNIGHTS1/cmake-build-debug/CMakeFiles/KNIGHTS1.dir
+F:/coding/algorithm/SPOJ/KNIGHTS1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/coding/algorithm/SPOJ/KNIGHTS1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

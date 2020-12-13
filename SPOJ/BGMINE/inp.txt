@@ -6,3 +6,65 @@
 
 
 
+#include <bits/stdc++.h>
+using namespace std;
+
+const int N = 2e5 + 10;
+
+class FenwickTree {
+private:
+    long long t[N];
+public:
+    void init() { memset(t, -1, sizeof t); }
+    void update(int x, long long value) {
+        for (; x < N; x += x & -x)
+            t[x] = (t[x] != -1) ? min(t[x], value) : value;
+    }
+    long long get(int x) {
+        long long res = 1e18;
+        for (; x > 0; x -= x & -x)
+            if (t[x] != -1) res = min(res, t[x]);
+        return res;
+    }
+} bit;
+
+int n;
+long long answer;
+long long x[N], g[N], r[N], a[N], b[N];
+
+void load() {
+    scanf("%d", &n);
+    for (int i = 1; i <= n; ++i) {
+        scanf("%lld%lld%lld", x + i, g + i, r + i);
+        g[i] += g[i - 1];
+        r[i] += r[i - 1];
+    }
+}
+
+void init() {
+    bit.init();
+    for (int i = 1; i <= 2 * n; ++i)
+        a[i] = b[i] = (i > n) ? r[i - n] - x[i - n] : r[i - 1] - x[i];
+
+    sort(b + 1, b + 2 * n + 1);
+    for (int i = 1; i <= 2 * n; ++i)
+        a[i] = lower_bound(b + 1, b + 2 * n + 1, a[i]) - b;
+}
+
+void process() {
+    for (int i = 1; i <= n; ++i) {
+        bit.update(a[i], g[i - 1]);
+        long long cur = bit.get(a[i + n]);
+        answer = max(answer, g[i] - cur);
+        //cout << i << " " << cur << " " << g[i] << "\n";
+    }
+    printf("%lld\n", answer);
+}
+
+int main() {
+    load();
+    init();
+    process();
+
+    return 0;
+}

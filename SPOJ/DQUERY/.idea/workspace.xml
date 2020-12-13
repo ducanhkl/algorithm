@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DQUERY" targetName="DQUERY" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5559f54c-b821-4191-8f0a-61a10871bbe7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1lEPLD392eg6WSzO78zGFkPV4w6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DQUERY" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DQUERY" TARGET_NAME="DQUERY" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DQUERY" RUN_TARGET_NAME="DQUERY">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5559f54c-b821-4191-8f0a-61a10871bbe7" name="Default Changelist" comment="" />
+      <created>1607159218739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607159218739</updated>
+      <workItem from="1607159220339" duration="6888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1607176491354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491354" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1607176491354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491354" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1607176491354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491354" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1607176491354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491354" />
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.bottom" timestamp="1607176491349">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491349" />
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.center" timestamp="1607176491348">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491348" />
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.left" timestamp="1607176491355">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491355" />
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.right" timestamp="1607176491348">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="45" y="261" width="377" height="382" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607176491348" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-1" timestamp="1607164353821">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1607164353821" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-10" timestamp="1607165581266">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-10/0.0.1920.1050@0.0.1920.1050" timestamp="1607165581266" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-11" timestamp="1607165581266">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-11/0.0.1920.1050@0.0.1920.1050" timestamp="1607165581266" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-12" timestamp="1607165581266">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-12/0.0.1920.1050@0.0.1920.1050" timestamp="1607165581266" />
+    <state x="45" y="261" width="393" height="449" key="dock-window-13" timestamp="1607165623068">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="45" y="261" width="393" height="449" key="dock-window-13/0.0.1920.1050@0.0.1920.1050" timestamp="1607165623068" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-2" timestamp="1607164485903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-2/0.0.1920.1050@0.0.1920.1050" timestamp="1607164485903" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-3" timestamp="1607164668237">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-3/0.0.1920.1050@0.0.1920.1050" timestamp="1607164668237" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-4" timestamp="1607164668237">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-4/0.0.1920.1050@0.0.1920.1050" timestamp="1607164668237" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-5" timestamp="1607164761432">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-5/0.0.1920.1050@0.0.1920.1050" timestamp="1607164761432" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-6" timestamp="1607164819389">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-6/0.0.1920.1050@0.0.1920.1050" timestamp="1607164819389" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-7" timestamp="1607164819389">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-7/0.0.1920.1050@0.0.1920.1050" timestamp="1607164819389" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-8" timestamp="1607164846826">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-8/0.0.1920.1050@0.0.1920.1050" timestamp="1607164846826" />
+    <state x="44" y="169" width="380" height="431" key="dock-window-9" timestamp="1607165192995">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="44" y="169" width="380" height="431" key="dock-window-9/0.0.1920.1050@0.0.1920.1050" timestamp="1607165192995" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="tree[node]" language="ObjectiveC" />
+        <watch expression="tree" language="ObjectiveC" />
+        <watch expression="pos" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

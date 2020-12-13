@@ -1,0 +1,3 @@
+F:/coding/algorithm/codeforces/1388/D/cmake-build-debug/CMakeFiles/D.dir
+F:/coding/algorithm/codeforces/1388/D/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/coding/algorithm/codeforces/1388/D/cmake-build-debug/CMakeFiles/rebuild_cache.dir

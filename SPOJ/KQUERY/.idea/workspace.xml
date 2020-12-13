@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="KQUERY" targetName="KQUERY" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25ef211d-c294-46e2-bffb-56e82d39b190" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1lEyLpKZkrVAatB950HvlncOBs2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="KQUERY" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KQUERY" TARGET_NAME="KQUERY" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KQUERY" RUN_TARGET_NAME="KQUERY">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25ef211d-c294-46e2-bffb-56e82d39b190" name="Default Changelist" comment="" />
+      <created>1607176492251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607176492251</updated>
+      <workItem from="1607176493702" duration="3428000" />
+      <workItem from="1607243251570" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1607191027755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027755" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1607191027755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027755" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1607191027754">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027754" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1607191027755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027755" />
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.bottom" timestamp="1607191027702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027702" />
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.center" timestamp="1607191027701">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027701" />
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.left" timestamp="1607191027755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027755" />
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.right" timestamp="1607191027701">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="46" y="185" width="377" height="382" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607191027701" />
+    <state x="46" y="185" width="393" height="449" key="dock-window-1" timestamp="1607178927759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="46" y="185" width="393" height="449" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1607178927759" />
+    <state x="46" y="185" width="393" height="449" key="dock-window-2" timestamp="1607179113872">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="46" y="185" width="393" height="449" key="dock-window-2/0.0.1920.1050@0.0.1920.1050" timestamp="1607179113872" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>70</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="a" language="ObjectiveC" />
+        <watch expression="a[last]" language="ObjectiveC" />
+        <watch expression="ans" language="ObjectiveC" />
+        <watch expression="last" language="ObjectiveC" />
+        <watch expression="ask[i].val" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
