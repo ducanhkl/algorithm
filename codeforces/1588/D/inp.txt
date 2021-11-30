@@ -1,0 +1,16 @@
+4
+3
+abcde
+aBcDe
+ace
+2
+ABC
+CBA
+2
+bacab
+defed
+
+2
+codeforces
+technocup
+
